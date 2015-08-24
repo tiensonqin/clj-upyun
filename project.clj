@@ -1,4 +1,4 @@
-(defproject clj-upyun "0.1.0-SNAPSHOT"
+(defproject clj-upyun "0.1.0"
   :description "Upyun clojure bindings"
   :url "http://github.com/hoolay-cn/clj-upyun"
   :license {:name "Eclipse Public License"
